@@ -17,7 +17,7 @@ Versi ini dirancang untuk pengembangan skala kecil, cocok untuk eksperimen atau 
 ### Tujuan
 - Membuat prototipe sistem pengendalian akses berbasis wajah dan plat nomor.
 - Mendeteksi wajah tunggal secara real-time (~0.5-1 detik) untuk buka pintu (database 5-10 wajah).
-- Membaca plat nomor dengan akurasi >85%.
+- Membaca plat nomor dengan akurasi >65-80%.
 - Menghitung wajah unik dan mengklasifikasi gender/umur untuk analisis sederhana.
 - Memberikan umpan balik suara (espeak) dan visual (LED) kepada pengguna.
 - Menangani error seperti banyak wajah atau gambar buram.
